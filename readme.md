@@ -1,4 +1,4 @@
-his repository provides an in-depth analysis of over 100 million education-related tweets from across the United States. 
+This repository provides an in-depth analysis of over 100 million education-related tweets from across the United States. 
 It aims to answer several key questions:
 1. Identifying the most influential accounts that tweet about education
 2. Categorizing these accounts by domain (government entities, universities, schools, non-profit organizations, news outlets, social media influencers, or others), 
